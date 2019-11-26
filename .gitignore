@@ -1,1 +1,17 @@
 /breakout.class
+/Gameboard.class
+/Brick.class
+/Ball.class
+/Mover.class
+/Movetimer.class
+/Rectangle.class
+/Bat.class
+/Dropbrick.class
+/Goldbrick.class
+/Hidebrick.class
+/GameBoard.class
+/DropBrick.class
+/GoldBrick.class
+/HideBrick.class
+/MoveTimer$MoveListener.class
+/MoveTimer.class
